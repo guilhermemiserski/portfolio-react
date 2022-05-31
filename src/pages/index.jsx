@@ -12,12 +12,12 @@ export default function Home() {
         <Intro>Estou cursando Análise e desenvolvimento de sistemas,
            já tenho conhecimento em algumas linguagens e frameworks como JS, HTML, CSS e ReactJS.
         </Intro>
-        <Link href="Projetos">
+        <Link href="projects">
           <LinkProjects>PROJETOS <FaArrowRight /></LinkProjects>
         </Link>
       </Infos>
       <Logo>
-        <Img src="https://www.pngplay.com/wp-content/uploads/12/User-Avatar-Profile-PNG-Clip-Art-HD-Quality.png" alt="logo" />
+        <Img src="assets/avatar.png" alt="logo" />
       </Logo>
      </Content>
    </Container>
